@@ -1,0 +1,8 @@
+1. Git int
+2. Git remote add origin <main/assets/images/electrocat.png>
+Stagging
+3. Git add
+Commit
+4. Git commit- m"commit name" 
+Push 
+Git push origin master 
